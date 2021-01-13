@@ -1,0 +1,2 @@
+C:\Users\Sachin\source\repos\Image processing project\x64\Debug\Image processing project.exe
+C:\Users\Sachin\source\repos\Image processing project\x64\Debug\Image processing project.pdb
